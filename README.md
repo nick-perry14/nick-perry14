@@ -7,3 +7,5 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
 #  Welcome to my profile!
 I'm Nick Perry, a computer science graduate student attending Miami University of Ohio.  I enjoy hockey, videogames and programming.
+
+Stay tuned for more updates!
