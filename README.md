@@ -9,3 +9,5 @@
 I'm Nick Perry, a computer science graduate student attending Miami University of Ohio.  I enjoy hockey, videogames and programming.  I currently help work on FiveM servers in my free time.
 
 Stay tuned for more updates!
+
+![](https://hit.yhype.me/github/profile?user_id=6935777)
